@@ -1,6 +1,3 @@
-latitude,longitude,elevation,utc_offset_seconds,timezone,timezone_abbreviation
-40.738136,-74.04254,51.0,-14400,America/New_York,EDT
-
 time,temperature_2m (°C),relative_humidity_2m (%),dew_point_2m (°C),apparent_temperature (°C),precipitation (mm),rain (mm),snowfall (cm),snow_depth (m),surface_pressure (hPa),cloud_cover (%),wind_speed_10m (km/h),is_day ()
 2019-02-01T00:00,-10.4,30,-24.6,-16.1,0.00,0.00,0.00,0.01,1023.6,0,12.1,0
 2019-02-01T01:00,-10.4,30,-24.7,-16.1,0.00,0.00,0.00,0.01,1023.5,1,12.2,0
